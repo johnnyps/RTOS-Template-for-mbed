@@ -1,2 +1,2 @@
 # RTOS-Template-for-mbed
-Simple RTOS template used with a GPS library  on C++
+Simple RTOS template used with a GPS library  on C++ using keil uVision5
